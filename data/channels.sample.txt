@@ -1,0 +1,7 @@
+# Sample TikTok channels to demonstrate the tracker.
+# You can replace these with your own usernames or full profile URLs.
+
+johndoe
+janedoe
+https://www.tiktok.com/@nike
+https://www.tiktok.com/@adidas
