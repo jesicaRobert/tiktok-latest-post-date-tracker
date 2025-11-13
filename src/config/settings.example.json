@@ -1,0 +1,8 @@
+{
+  "headless": true,
+  "defaultType": "videos",
+  "navigationTimeoutMs": 45000,
+  "concurrentChannels": 2,
+  "outputPath": "./data/output.sample.json",
+  "channelsPath": "./data/channels.sample.txt"
+}
