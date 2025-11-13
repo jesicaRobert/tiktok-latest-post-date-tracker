@@ -1,0 +1,26 @@
+{
+  "name": "tiktok-latest-post-date-tracker",
+  "version": "1.0.0",
+  "description": "A fast and reliable tool that extracts the latest post dates from any TikTok profile.",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "start:sample": "node src/main.js --use-sample",
+    "lint": "echo \"No linter configured\"",
+    "test": "node -e \"console.log('No tests configured yet')\""
+  },
+  "keywords": [
+    "tiktok",
+    "scraper",
+    "latest-post",
+    "automation",
+    "bitbash"
+  },
+  "author": "Bitbash",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "pino": "^9.3.0",
+    "puppeteer": "^23.7.0"
+  }
+}
